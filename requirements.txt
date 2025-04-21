@@ -15,5 +15,4 @@ pyrootutils==1.0.4
 pyopengl
 omegaconf>=2.1
 fvcore
-timm
 matplotlib-inline
